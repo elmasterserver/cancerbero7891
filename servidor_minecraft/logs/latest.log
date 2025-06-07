@@ -325,3 +325,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [07Jun2025 23:18:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura joined the game
 [07Jun2025 23:20:16.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elchura lost connection: Disconnected
 [07Jun2025 23:20:16.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura left the game
+[07Jun2025 23:45:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jun2025 23:45:18.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jun2025 23:45:18.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jun2025 23:45:18.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jun2025 23:45:19.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jun2025 23:45:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jun2025 23:45:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/kimetsunoyaiba:enmu_dream
+[07Jun2025 23:45:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/kimetsunoyaiba:mugen_castle_dimension
+[07Jun2025 23:45:20.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jun2025 23:45:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jun2025 23:45:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jun2025 23:45:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (enmu_dream): All chunks are saved
+[07Jun2025 23:45:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mugen_castle_dimension): All chunks are saved
+[07Jun2025 23:45:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jun2025 23:45:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
