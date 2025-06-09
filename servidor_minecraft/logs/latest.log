@@ -549,3 +549,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 02:28:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Tsuchinoto]
 [09Jun2025 02:29:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Tsuchinoto]
 [09Jun2025 02:30:53.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported 2 entities to 87560.500000, 90.000000, 7456.500000]
+[09Jun2025 02:32:55.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set the time to 13000]
+[09Jun2025 02:33:03.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gamerule doDaylightCycle is now set to: false]
+[09Jun2025 02:36:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf fell from a high place
+[09Jun2025 02:36:22.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:36:44.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Tsuchinoe]
+[09Jun2025 02:36:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:36:47.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:36:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:37:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:38:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:38:03.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:39:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:39:23.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:41:12.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:41:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:41:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:41:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:41:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:41:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:41:42.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:41:47.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:41:50.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:41:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:42:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:42:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:42:10.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:42:16.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:42:18.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:42:26.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:42:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:42:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:42:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died

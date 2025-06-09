@@ -26,7 +26,8 @@
       "minecraft:forest": "2025-06-09 01:25:55 +0000",
       "minecraft:windswept_forest": "2025-06-09 01:44:24 +0000",
       "minecraft:windswept_savanna": "2025-06-09 01:43:05 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-09 01:42:05 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-09 01:42:05 +0000",
+      "minecraft:plains": "2025-06-09 02:36:33 +0000"
     },
     "done": false
   },
@@ -278,7 +279,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-09 01:33:51 +0000"
+      "minecraft:skeleton": "2025-06-09 01:33:51 +0000",
+      "minecraft:spider": "2025-06-09 02:28:35 +0000",
+      "minecraft:zombie": "2025-06-09 02:35:32 +0000"
     },
     "done": false
   },
@@ -992,9 +995,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-09 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-09 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-06-09 02:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:tsuchinoto": {
+    "criteria": {
+      "tsuchinoto_0": "2025-06-09 02:29:46 +0000"
     },
     "done": true
   },

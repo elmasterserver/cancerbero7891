@@ -26,7 +26,8 @@
       "minecraft:forest": "2025-06-09 01:26:51 +0000",
       "minecraft:windswept_forest": "2025-06-09 01:44:21 +0000",
       "minecraft:windswept_savanna": "2025-06-09 01:43:05 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-09 01:42:58 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-09 01:42:58 +0000",
+      "minecraft:plains": "2025-06-09 02:36:19 +0000"
     },
     "done": false
   },
@@ -615,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 02:06:53 +0000"
@@ -633,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 02:06:53 +0000"
@@ -642,6 +655,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-06-09 02:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-09 02:28:46 +0000"
     },
     "done": true
   },
@@ -717,15 +736,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-09 02:17:23 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:tsuchinoe": {
+    "criteria": {
+      "tsuchinoe_0": "2025-06-09 02:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-09 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
     },
     "done": true
   },
@@ -819,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:mission_no_2": {
     "criteria": {
       "mission_no_2_0": "2025-06-09 02:11:44 +0000"
@@ -828,6 +871,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-09 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-09 02:28:46 +0000"
     },
     "done": true
   },
@@ -849,9 +898,21 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:tsuchinoto": {
+    "criteria": {
+      "tsuchinoto_0": "2025-06-09 02:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-09 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-09 02:28:46 +0000"
     },
     "done": true
   },
@@ -870,6 +931,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-09 02:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-09 02:28:46 +0000"
     },
     "done": true
   },
