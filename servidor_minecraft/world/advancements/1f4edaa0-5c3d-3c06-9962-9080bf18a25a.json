@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_40": {
+    "criteria": {
+      "breathing_40_0": "2025-06-09 03:21:08 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:receive_60_damage": {
     "criteria": {
       "receive_60_damage_0": "2025-06-09 03:11:46 +0000"
@@ -1190,6 +1196,12 @@
   "kimetsunoyaiba:receive_20_damage": {
     "criteria": {
       "receive_20_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_sound_hashira": {
+    "criteria": {
+      "the_sound_hashira_0": "2025-06-09 03:17:12 +0000"
     },
     "done": true
   },
