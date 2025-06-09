@@ -758,7 +758,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-09 02:20:36 +0000",
       "cooked_mutton": "2025-06-09 02:00:45 +0000",
-      "porkchop": "2025-06-09 01:54:00 +0000"
+      "porkchop": "2025-06-09 01:54:00 +0000",
+      "enchanted_golden_apple": "2025-06-09 03:39:48 +0000"
     },
     "done": false
   },
@@ -1305,6 +1306,12 @@
   "kimetsunoyaiba:the_sound_hashira": {
     "criteria": {
       "the_sound_hashira_0": "2025-06-09 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-09 03:39:37 +0000"
     },
     "done": true
   },

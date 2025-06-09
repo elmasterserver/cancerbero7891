@@ -2816,3 +2816,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 03:33:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
 [09Jun2025 03:33:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
 [09Jun2025 03:33:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:33:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:33:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:33:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:34:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Upper 6-]
+[09Jun2025 03:34:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:34:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Gyokko]
+[09Jun2025 03:35:28.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:35:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:35:40.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:35:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:35:50.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:35:56.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:35:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died because of Gyokko
+[09Jun2025 03:36:06.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:36:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:36:21.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:36:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:36:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:36:34.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:36:36.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:36:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:36:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:37:01.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:37:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:37:09.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:37:14.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:37:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:37:25.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:38:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:38:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:38:04.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:38:04.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:38:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:38:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:39:25.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[09Jun2025 03:41:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [KyokokuKamusari] to Elchura]
+[09Jun2025 03:41:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [KyokokuKamusari] to Elchura]
+[09Jun2025 03:42:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [KyokokuKamusari] to Elchura]
+[09Jun2025 03:42:35.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [KyokokuKamusari] to Elchura]
+[09Jun2025 03:42:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [Nichirin Sword (Tomioka)] to Elchura]
+[09Jun2025 03:43:04.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:43:04.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:43:25.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to 2 targets]
+[09Jun2025 03:43:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to 2 targets]
+[09Jun2025 03:43:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]

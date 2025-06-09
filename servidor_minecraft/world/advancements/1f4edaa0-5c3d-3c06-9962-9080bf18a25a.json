@@ -439,7 +439,8 @@
       "minecraft:skeleton": "2025-06-09 01:50:32 +0000",
       "minecraft:spider": "2025-06-09 01:48:43 +0000",
       "minecraft:creeper": "2025-06-09 02:14:43 +0000",
-      "minecraft:zombie": "2025-06-09 02:25:43 +0000"
+      "minecraft:zombie": "2025-06-09 02:25:43 +0000",
+      "minecraft:drowned": "2025-06-09 03:40:28 +0000"
     },
     "done": false
   },
@@ -1121,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 03:37:15 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_slayer_mark": {
     "criteria": {
       "demon_slayer_mark_0": "2025-06-09 03:11:46 +0000"
@@ -1205,6 +1212,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_upper_6": {
+    "criteria": {
+      "bloody_battle_upper_6_0": "2025-06-09 03:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-09 03:07:14 +0000"
@@ -1262,6 +1275,18 @@
   "kimetsunoyaiba:the_sound_hashira": {
     "criteria": {
       "the_sound_hashira_0": "2025-06-09 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-09 03:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 03:37:15 +0000"
     },
     "done": true
   },
