@@ -588,3 +588,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 02:49:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
 [09Jun2025 02:49:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
 [09Jun2025 02:49:25.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hinoto]
+[09Jun2025 02:53:19.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Hinoto]
+[09Jun2025 02:56:24.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elchura lost connection: Disconnected
+[09Jun2025 02:56:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura left the game
+[09Jun2025 02:56:39.066] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e0388d[id=<null>,name=Elchura,properties={},legacy=false] (/127.136.61.8:44681) lost connection: Disconnected
+[09Jun2025 02:56:47.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302e37a3[id=<null>,name=Elchura,properties={},legacy=false] (/127.136.61.8:42055) lost connection: Disconnected
+[09Jun2025 02:56:50.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elchura[/127.136.61.8:50809] logged in with entity id 32718 at (88581.83558931756, 66.0, 7164.049153679517)
+[09Jun2025 02:56:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura joined the game
+[09Jun2025 02:58:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[09Jun2025 02:58:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[09Jun2025 03:00:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hinoe]
+[09Jun2025 03:00:12.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Demon Killer 10]
+[09Jun2025 03:01:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Hinoe]
+[09Jun2025 03:01:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:02:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:02:14.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32222, l='ServerLevel[world]', x=88735.50, y=65.00, z=7239.50] died, message: 'Villager died'
+[09Jun2025 03:02:21.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf was doomed to fall by Rokuro
+[09Jun2025 03:02:24.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Lower 2-]
+[09Jun2025 03:02:24.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kill 12 Moons]
+[09Jun2025 03:02:24.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kinoto]
+[09Jun2025 03:02:28.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]

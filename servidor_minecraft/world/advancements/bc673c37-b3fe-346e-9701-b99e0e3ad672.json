@@ -1026,6 +1026,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hinoe": {
+    "criteria": {
+      "hinoe_0": "2025-06-09 03:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
@@ -1062,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-09 03:01:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-09 02:28:35 +0000"
@@ -1089,6 +1101,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hinoto": {
+    "criteria": {
+      "hinoto_0": "2025-06-09 02:53:19 +0000"
     },
     "done": true
   },
