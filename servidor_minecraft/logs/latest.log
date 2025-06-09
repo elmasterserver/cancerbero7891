@@ -517,3 +517,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 02:12:17.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kanoto]
 [09Jun2025 02:12:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kanoe]
 [09Jun2025 02:12:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:13:16.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Best Friends Forever]
+[09Jun2025 02:13:16.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Demon Slayer Corps]
+[09Jun2025 02:13:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Mizunoto]
+[09Jun2025 02:15:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Mizunoe]
+[09Jun2025 02:15:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Kanoto]
+[09Jun2025 02:15:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Kanoe]
+[09Jun2025 02:15:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura fell from a high place
+[09Jun2025 02:16:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:16:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Sweet Dreams]
+[09Jun2025 02:16:20.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Disconnected
+[09Jun2025 02:16:20.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
+[09Jun2025 02:16:28.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UndampedWharf[/127.239.83.38:59061] logged in with entity id 18545 at (-880.3054739331915, 88.0, 409.7066610248127)
+[09Jun2025 02:16:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf joined the game
+[09Jun2025 02:19:32.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9660ms or 193 ticks behind
+[09Jun2025 02:19:50.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf moved too quickly! 3.378609279127204,-2.5280820080366624,9.321554877188532
+[09Jun2025 02:19:50.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf was kicked for floating too long!
+[09Jun2025 02:19:50.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Flying is not enabled on this server
+[09Jun2025 02:19:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
+[09Jun2025 02:19:51.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[09Jun2025 02:19:59.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UndampedWharf[/127.239.83.38:34481] logged in with entity id 19054 at (-899.18727083716, 88.82930405164726, 418.3236824123213)
+[09Jun2025 02:19:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf joined the game
+[09Jun2025 02:20:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Suit Up]
+[09Jun2025 02:21:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Suit Up]
