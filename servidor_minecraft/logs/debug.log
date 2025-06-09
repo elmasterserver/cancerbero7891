@@ -2463,3 +2463,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 02:42:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
 [09Jun2025 02:42:39.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
 [09Jun2025 02:42:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:42:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:43:04.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:43:04.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:44:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Tsuchinoe]
+[09Jun2025 02:44:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 02:44:36.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:48:04.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:48:04.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:49:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 02:49:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:49:25.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hinoto]
+[09Jun2025 02:53:04.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:53:04.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
