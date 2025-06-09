@@ -752,6 +752,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-09 02:20:36 +0000",
       "cooked_mutton": "2025-06-09 02:00:45 +0000",
       "porkchop": "2025-06-09 01:54:00 +0000"
     },
@@ -976,6 +977,24 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-09 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-09 02:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-09 02:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-09 02:21:06 +0000"
     },
     "done": true
   },

@@ -2414,3 +2414,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 02:19:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf joined the game
 [09Jun2025 02:20:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Suit Up]
 [09Jun2025 02:21:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Suit Up]
+[09Jun2025 02:23:04.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:23:04.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:24:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set the time to 13000]
+[09Jun2025 02:24:23.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:25:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Hard]
+[09Jun2025 02:27:53.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 02:27:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf was doomed to fall
+[09Jun2025 02:28:04.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:28:04.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:28:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 02:28:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Tsuchinoto]
+[09Jun2025 02:29:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Tsuchinoto]
+[09Jun2025 02:30:53.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported 2 entities to 87560.500000, 90.000000, 7456.500000]
