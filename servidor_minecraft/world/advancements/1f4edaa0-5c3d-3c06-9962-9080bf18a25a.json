@@ -11,17 +11,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-06-07 23:18:54 +0000"
-    },
-    "done": false
-  },
   "kimetsunoyaiba:cruel": {
     "criteria": {
       "cruel_0": "2025-06-07 23:18:53 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-07 23:18:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
