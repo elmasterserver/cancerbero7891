@@ -1,25 +1,26 @@
 {
   "kimetsunoyaiba:demon_slayer": {
     "criteria": {
-      "demon_slayer_0": "2025-06-07 23:18:53 +0000"
+      "demon_slayer_0": "2025-06-09 01:15:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-06-07 23:18:53 +0000"
+      "unlock_right_away": "2025-06-09 01:15:16 +0000"
     },
     "done": true
   },
   "kimetsunoyaiba:cruel": {
     "criteria": {
-      "cruel_0": "2025-06-07 23:18:53 +0000"
+      "cruel_0": "2025-06-09 01:15:16 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-06-07 23:18:54 +0000"
+      "minecraft:beach": "2025-06-09 01:15:17 +0000",
+      "minecraft:forest": "2025-06-09 01:15:22 +0000"
     },
     "done": false
   },
