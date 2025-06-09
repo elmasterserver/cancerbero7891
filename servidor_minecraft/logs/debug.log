@@ -2770,3 +2770,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 03:23:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Breathing 80]
 [09Jun2025 03:23:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Breathing 100]
 [09Jun2025 03:23:28.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has completed the challenge [[Skill] Transparent World (WIP)]
+[09Jun2025 03:23:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Demon Killer 50]
+[09Jun2025 03:23:29.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has completed the challenge [[Skill] Crimson Red Nichirin Blade]
+[09Jun2025 03:23:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [The Love Hashira]
+[09Jun2025 03:23:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Breathing 20]
+[09Jun2025 03:23:53.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:24:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:24:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Demon Killer 20]
+[09Jun2025 03:24:08.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [The Serpent Hashira]
+[09Jun2025 03:24:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Breathing 40]
+[09Jun2025 03:24:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:24:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:24:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Demon Killer 30]
+[09Jun2025 03:25:07.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Breathing 60]
+[09Jun2025 03:25:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Demon Killer 40]
+[09Jun2025 03:25:30.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Breathing 80]
+[09Jun2025 03:25:34.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Demon Killer 50]
+[09Jun2025 03:25:34.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has completed the challenge [[Skill] Crimson Red Nichirin Blade]
+[09Jun2025 03:25:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Breathing 100]
+[09Jun2025 03:25:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has completed the challenge [[Skill] Transparent World (WIP)]
+[09Jun2025 03:26:05.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[09Jun2025 03:26:25.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[09Jun2025 03:27:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [The Love Hashira]
+[09Jun2025 03:28:04.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:28:04.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:30:24.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Kamanue]
+[09Jun2025 03:30:30.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37689, l='ServerLevel[world]', x=88704.50, y=67.00, z=7225.50] died, message: 'Villager died'
+[09Jun2025 03:30:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Bloody Battle -Lower 6-]
+[09Jun2025 03:31:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Mukago]
+[09Jun2025 03:31:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Lower 4-]
+[09Jun2025 03:31:31.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Wakuraba]
+[09Jun2025 03:31:35.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Lower 3-]
+[09Jun2025 03:31:47.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Enmu]
+[09Jun2025 03:32:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Daki]
+[09Jun2025 03:32:42.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:32:44.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:32:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:32:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Daki]
+[09Jun2025 03:33:01.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:33:04.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:33:04.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:33:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:33:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[09Jun2025 03:33:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 03:33:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[09Jun2025 03:33:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[09Jun2025 03:33:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]

@@ -1085,9 +1085,27 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_80": {
+    "criteria": {
+      "breathing_80_0": "2025-06-09 03:23:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:transparent_world": {
+    "criteria": {
+      "transparent_world_0": "2025-06-09 03:23:28 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:kill_12_moons": {
     "criteria": {
       "kill_12_moons_0": "2025-06-09 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_60": {
+    "criteria": {
+      "breathing_60_0": "2025-06-09 03:23:23 +0000"
     },
     "done": true
   },
@@ -1139,9 +1157,27 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_100": {
+    "criteria": {
+      "breathing_100_0": "2025-06-09 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_lower_4": {
+    "criteria": {
+      "bloody_battle_lower_4_0": "2025-06-09 03:31:22 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:bloody_battle_lower_2": {
     "criteria": {
       "bloody_battle_lower_2_0": "2025-06-09 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_lower_3": {
+    "criteria": {
+      "bloody_battle_lower_3_0": "2025-06-09 03:31:35 +0000"
     },
     "done": true
   },
@@ -1163,6 +1199,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_love_hashira": {
+    "criteria": {
+      "the_love_hashira_0": "2025-06-09 03:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-09 03:07:14 +0000"
@@ -1178,6 +1220,24 @@
   "kimetsunoyaiba:demon_kill_count_30": {
     "criteria": {
       "demon_kill_count_30_0": "2025-06-09 03:11:51 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_40": {
+    "criteria": {
+      "demon_kill_count_40_0": "2025-06-09 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_50": {
+    "criteria": {
+      "demon_kill_count_50_0": "2025-06-09 03:23:29 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:crimson_red_nichirin_blade": {
+    "criteria": {
+      "crimson_red_nichirin_blade_0": "2025-06-09 03:23:29 +0000"
     },
     "done": true
   },

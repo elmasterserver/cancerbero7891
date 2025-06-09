@@ -1014,6 +1014,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_mist_hashira": {
+    "criteria": {
+      "the_mist_hashira_0": "2025-06-09 03:27:05 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:receive_100_damage": {
     "criteria": {
       "receive_100_damage_0": "2025-06-09 03:12:27 +0000"
@@ -1026,15 +1032,33 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_80": {
+    "criteria": {
+      "breathing_80_0": "2025-06-09 03:25:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-06-09 02:28:30 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:transparent_world": {
+    "criteria": {
+      "transparent_world_0": "2025-06-09 03:25:46 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:kill_12_moons": {
     "criteria": {
       "kill_12_moons_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_60": {
+    "criteria": {
+      "breathing_60_0": "2025-06-09 03:25:07 +0000"
     },
     "done": true
   },
@@ -1047,6 +1071,12 @@
   "kimetsunoyaiba:demon_slayer_mark": {
     "criteria": {
       "demon_slayer_mark_0": "2025-06-09 03:12:27 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_40": {
+    "criteria": {
+      "breathing_40_0": "2025-06-09 03:24:08 +0000"
     },
     "done": true
   },
@@ -1068,9 +1098,21 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_20": {
+    "criteria": {
+      "breathing_20_0": "2025-06-09 03:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_100": {
+    "criteria": {
+      "breathing_100_0": "2025-06-09 03:25:46 +0000"
     },
     "done": true
   },
@@ -1095,6 +1137,12 @@
   "kimetsunoyaiba:bloody_battle_lower_5": {
     "criteria": {
       "bloody_battle_lower_5_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_lower_6": {
+    "criteria": {
+      "bloody_battle_lower_6_0": "2025-06-09 03:30:37 +0000"
     },
     "done": true
   },
@@ -1140,6 +1188,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:the_serpent_hashira": {
+    "criteria": {
+      "the_serpent_hashira_0": "2025-06-09 03:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-09 03:01:15 +0000"
@@ -1158,15 +1212,45 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_kill_count_20": {
+    "criteria": {
+      "demon_kill_count_20_0": "2025-06-09 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_30": {
+    "criteria": {
+      "demon_kill_count_30_0": "2025-06-09 03:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_kill_count_40": {
+    "criteria": {
+      "demon_kill_count_40_0": "2025-06-09 03:25:21 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_50": {
+    "criteria": {
+      "demon_kill_count_50_0": "2025-06-09 03:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:crimson_red_nichirin_blade": {
+    "criteria": {
+      "crimson_red_nichirin_blade_0": "2025-06-09 03:25:34 +0000"
     },
     "done": true
   },
