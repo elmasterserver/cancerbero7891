@@ -799,3 +799,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 03:43:25.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to 2 targets]
 [09Jun2025 03:43:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to 2 targets]
 [09Jun2025 03:43:43.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[09Jun2025 03:45:27.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elchura lost connection: Disconnected
+[09Jun2025 03:45:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura left the game
+[09Jun2025 03:45:41.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Disconnected
+[09Jun2025 03:45:41.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
