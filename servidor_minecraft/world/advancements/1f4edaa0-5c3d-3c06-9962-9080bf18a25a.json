@@ -1073,15 +1073,57 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira_0": "2025-06-09 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_100_damage": {
+    "criteria": {
+      "receive_100_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:kill_12_moons": {
     "criteria": {
       "kill_12_moons_0": "2025-06-09 03:02:24 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:the_flame_hashira": {
+    "criteria": {
+      "the_flame_hashira_0": "2025-06-09 03:11:50 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:strongest": {
+    "criteria": {
+      "strongest_0": "2025-06-09 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_mark": {
+    "criteria": {
+      "demon_slayer_mark_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_60_damage": {
+    "criteria": {
+      "receive_60_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:hinoe": {
     "criteria": {
       "hinoe_0": "2025-06-09 03:00:06 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_20": {
+    "criteria": {
+      "breathing_20_0": "2025-06-09 03:11:51 +0000"
     },
     "done": true
   },
@@ -1097,6 +1139,42 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kinoe": {
+    "criteria": {
+      "kinoe_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_80_damage": {
+    "criteria": {
+      "receive_80_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_40_damage": {
+    "criteria": {
+      "receive_40_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-09 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_20": {
+    "criteria": {
+      "demon_kill_count_20_0": "2025-06-09 03:11:50 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_kill_count_30": {
+    "criteria": {
+      "demon_kill_count_30_0": "2025-06-09 03:11:51 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_kill_count_10": {
     "criteria": {
       "demon_kill_count_10_0": "2025-06-09 03:00:12 +0000"
@@ -1106,6 +1184,12 @@
   "kimetsunoyaiba:kinoto": {
     "criteria": {
       "kinoto_0": "2025-06-09 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_20_damage": {
+    "criteria": {
+      "receive_20_damage_0": "2025-06-09 03:11:46 +0000"
     },
     "done": true
   },

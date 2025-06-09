@@ -990,6 +990,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira_0": "2025-06-09 03:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
@@ -1008,6 +1014,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:receive_100_damage": {
+    "criteria": {
+      "receive_100_damage_0": "2025-06-09 03:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-09 02:28:35 +0000"
@@ -1020,9 +1032,33 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kill_12_moons": {
+    "criteria": {
+      "kill_12_moons_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:strongest": {
+    "criteria": {
+      "strongest_0": "2025-06-09 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_mark": {
+    "criteria": {
+      "demon_slayer_mark_0": "2025-06-09 03:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_60_damage": {
+    "criteria": {
+      "receive_60_damage_0": "2025-06-09 03:12:27 +0000"
     },
     "done": true
   },
@@ -1056,9 +1092,33 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:bloody_battle_lower_5": {
+    "criteria": {
+      "bloody_battle_lower_5_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoe": {
+    "criteria": {
+      "kinoe_0": "2025-06-09 03:11:50 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_80_damage": {
+    "criteria": {
+      "receive_80_damage_0": "2025-06-09 03:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-09 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_40_damage": {
+    "criteria": {
+      "receive_40_damage_0": "2025-06-09 03:12:25 +0000"
     },
     "done": true
   },
@@ -1098,6 +1158,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:demon_kill_count_10": {
+    "criteria": {
+      "demon_kill_count_10_0": "2025-06-09 03:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-09 02:41:30 +0000"
@@ -1110,6 +1176,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:kinoto": {
+    "criteria": {
+      "kinoto_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-09 02:28:35 +0000"
@@ -1119,6 +1191,12 @@
   "kimetsunoyaiba:tsuchinoto": {
     "criteria": {
       "tsuchinoto_0": "2025-06-09 02:29:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_20_damage": {
+    "criteria": {
+      "receive_20_damage_0": "2025-06-09 03:12:25 +0000"
     },
     "done": true
   },
