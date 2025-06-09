@@ -402,3 +402,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [09Jun2025 01:15:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
 [09Jun2025 01:15:16.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
 [09Jun2025 01:15:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:22:24.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Disconnected
+[09Jun2025 01:22:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
+[09Jun2025 01:22:24.115] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 01:22:36.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UndampedWharf[/127.239.83.38:52323] logged in with entity id 4948 at (-13.807990840234146, 71.0, -28.080775360415583)
+[09Jun2025 01:22:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf joined the game
+[09Jun2025 01:25:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set UndampedWharf's game mode to Survival Mode]
+[09Jun2025 01:25:18.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Removed 1 item(s) from player UndampedWharf]
+[09Jun2025 01:25:29.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Best Friends Forever]
+[09Jun2025 01:25:29.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Demon Slayer Corps]
+[09Jun2025 01:25:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Mizunoto]
+[09Jun2025 01:25:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Mizunoe]
+[09Jun2025 01:25:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kanoto]
+[09Jun2025 01:25:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kanoe]
+[09Jun2025 01:25:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Peaceful]
+[09Jun2025 01:25:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Mizunoto]
+[09Jun2025 01:25:44.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Kanoto]
+[09Jun2025 01:25:44.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Best Friends Forever]
+[09Jun2025 01:25:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Demon Slayer Corps]
+[09Jun2025 01:25:44.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Mizunoe]
+[09Jun2025 01:25:44.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Mizunoto]
+[09Jun2025 01:25:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Best Friends Forever]
+[09Jun2025 01:25:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Demon Slayer Corps]
+[09Jun2025 01:25:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:45.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Best Friends Forever]
+[09Jun2025 01:25:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:45.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Revoked 1361 advancements from 2 players]
+[09Jun2025 01:25:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Removed every effect from 2 targets]
+[09Jun2025 01:25:58.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=66, z=-47}
+[09Jun2025 01:25:58.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=66, z=-47}
+[09Jun2025 01:25:58.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-33, y=66, z=-47}
+[09Jun2025 01:25:58.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=66, z=-46}
+[09Jun2025 01:26:02.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-33, y=67, z=-45}
+[09Jun2025 01:26:16.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Made UndampedWharf a server operator]
+[09Jun2025 01:26:38.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[09Jun2025 01:26:43.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gamerule keepInventory is now set to: true]
+[09Jun2025 01:26:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Easy]
+[09Jun2025 01:31:30.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[09Jun2025 01:31:32.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has completed the challenge [Peaceful?]
+[09Jun2025 01:32:14.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
