@@ -500,3 +500,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [12Jun2025 03:47:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Creative Mode]
 [12Jun2025 03:48:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Survival Mode]
 [12Jun2025 03:49:07.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Removed effect Demon from Elchura]
+[12Jun2025 03:51:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[12Jun2025 03:51:40.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elchura lost connection: Disconnected
+[12Jun2025 03:51:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura left the game
+[12Jun2025 03:52:44.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Disconnected
+[12Jun2025 03:52:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
