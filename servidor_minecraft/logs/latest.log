@@ -466,3 +466,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [12Jun2025 03:24:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Instant Health to 2 targets]
 [12Jun2025 03:24:52.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Absorption to 2 targets]
 [12Jun2025 03:25:13.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gamerule kimetsuPvP is now set to: true]
+[12Jun2025 03:31:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Strength to 2 targets]
+[12Jun2025 03:33:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 03:35:09.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:35:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Creative Mode]
+[12Jun2025 03:35:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Instant Health to 2 targets]
+[12Jun2025 03:35:43.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Absorption to 2 targets]
+[12Jun2025 03:35:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Strength to 2 targets]
+[12Jun2025 03:37:24.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Gave 1 [Gyutaro Head] to Elchura]
+[12Jun2025 03:37:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set the time to 18000]
+[12Jun2025 03:38:00.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:38:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Survival Mode]
+[12Jun2025 03:39:51.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
