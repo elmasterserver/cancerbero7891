@@ -1308,3 +1308,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [12Jun2025 02:56:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Tanjiro Kamado (Demon King)]
 [12Jun2025 02:56:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
 [12Jun2025 02:57:13.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/239, l='ServerLevel[world]', x=88750.50, y=64.00, z=7176.50] died, message: 'Villager was slain by Horned Demon'
+[12Jun2025 02:59:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 02:59:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has completed the challenge [A Peaceful World Wihout Demons (WIP)]
+[12Jun2025 02:59:53.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has completed the challenge [A Peaceful World Wihout Demons (WIP)]
+[12Jun2025 02:59:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[12Jun2025 03:00:03.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:00:03.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 03:00:09.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf moved too quickly! -9.700832858812646,1.0,3.0425285606870602
+[12Jun2025 03:00:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Tanjiro Kamado (Demon King)]
+[12Jun2025 03:00:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Peaceful]
+[12Jun2025 03:00:31.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Hard]
+[12Jun2025 03:00:47.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to UndampedWharf]
+[12Jun2025 03:00:52.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to UndampedWharf]
+[12Jun2025 03:01:03.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:01:21.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:01:35.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Yoriichi Tsugikuni]
+[12Jun2025 03:01:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 03:01:58.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[12Jun2025 03:02:05.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to UndampedWharf]
+[12Jun2025 03:02:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to UndampedWharf]
+[12Jun2025 03:02:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[12Jun2025 03:02:23.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[12Jun2025 03:02:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to 2 targets]
+[12Jun2025 03:02:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to 2 targets]
+[12Jun2025 03:03:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died
+[12Jun2025 03:03:17.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 03:03:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Yorichi to 2 targets]
+[12Jun2025 03:03:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Transparent World to 2 targets]
+[12Jun2025 03:03:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[12Jun2025 03:04:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:04:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set the time to 1000]
+[12Jun2025 03:05:03.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:05:03.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 03:05:13.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has made the advancement [Demon]
+[12Jun2025 03:05:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Creative Mode]
+[12Jun2025 03:05:37.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has made the advancement [Demon]
+[12Jun2025 03:06:50.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Fire Resistance to Elchura]
+[12Jun2025 03:06:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Fire Resistance to 2 targets]
+[12Jun2025 03:09:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:09:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set UndampedWharf's game mode to Survival Mode]
+[12Jun2025 03:09:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:09:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set UndampedWharf's game mode to Creative Mode]

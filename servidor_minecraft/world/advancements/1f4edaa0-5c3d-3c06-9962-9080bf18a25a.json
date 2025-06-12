@@ -1303,6 +1303,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:peaceful_world_wihout_demons": {
+    "criteria": {
+      "peaceful_world_wihout_demons_0": "2025-06-12 02:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-12 02:47:27 +0000"
