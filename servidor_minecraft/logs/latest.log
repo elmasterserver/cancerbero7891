@@ -333,3 +333,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [12Jun2025 02:47:46.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173, l='ServerLevel[world]', x=88704.50, y=65.00, z=7198.50] died, message: 'Villager died'
 [12Jun2025 02:47:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Bloody Battle -Upper 4-]
 [12Jun2025 02:48:46.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Akaza]
+[12Jun2025 02:50:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Upper 3-]
+[12Jun2025 02:50:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Doma]
+[12Jun2025 02:51:00.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Bloody Battle -Upper 2-]
+[12Jun2025 02:51:26.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Kokushibo]
+[12Jun2025 02:52:18.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Bloody Battle -Upper 1-]
+[12Jun2025 02:52:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 02:53:12.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 02:53:30.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 02:53:40.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Muzan Kibutsuji]
+[12Jun2025 02:53:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported Elchura to UndampedWharf]
+[12Jun2025 02:53:46.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 02:54:19.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/212, l='ServerLevel[world]', x=88717.50, y=65.56, z=7217.50] died, message: 'Villager died'
+[12Jun2025 02:54:19.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/227, l='ServerLevel[world]', x=88729.50, y=65.00, z=7204.50] died, message: 'Villager died'
+[12Jun2025 02:55:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 02:55:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[12Jun2025 02:56:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 02:56:32.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Teleported UndampedWharf to Elchura]
+[12Jun2025 02:56:39.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 02:56:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Tanjiro Kamado (Demon King)]
+[12Jun2025 02:56:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 02:57:13.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/239, l='ServerLevel[world]', x=88750.50, y=64.00, z=7176.50] died, message: 'Villager was slain by Horned Demon'

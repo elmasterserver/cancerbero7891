@@ -1075,75 +1075,9 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:hashira": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "hashira_0": "2025-06-09 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:receive_100_damage": {
-    "criteria": {
-      "receive_100_damage_0": "2025-06-09 03:11:46 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:breathing_80": {
-    "criteria": {
-      "breathing_80_0": "2025-06-09 03:23:24 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:transparent_world": {
-    "criteria": {
-      "transparent_world_0": "2025-06-09 03:23:28 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:kill_12_moons": {
-    "criteria": {
-      "kill_12_moons_0": "2025-06-09 03:02:24 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:breathing_60": {
-    "criteria": {
-      "breathing_60_0": "2025-06-09 03:23:23 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:the_flame_hashira": {
-    "criteria": {
-      "the_flame_hashira_0": "2025-06-09 03:11:50 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:strongest": {
-    "criteria": {
-      "strongest_0": "2025-06-09 03:11:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-09 03:37:15 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:demon_slayer_mark": {
-    "criteria": {
-      "demon_slayer_mark_0": "2025-06-09 03:11:46 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:breathing_40": {
-    "criteria": {
-      "breathing_40_0": "2025-06-09 03:21:08 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:receive_60_damage": {
-    "criteria": {
-      "receive_60_damage_0": "2025-06-09 03:11:46 +0000"
+      "has_log": "2025-06-09 02:57:53 +0000"
     },
     "done": true
   },
@@ -1153,27 +1087,15 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:breathing_20": {
+  "kimetsunoyaiba:demon_kill_count_10": {
     "criteria": {
-      "breathing_20_0": "2025-06-09 03:11:51 +0000"
+      "demon_kill_count_10_0": "2025-06-09 03:00:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "kimetsunoyaiba:kill_12_moons": {
     "criteria": {
-      "has_log": "2025-06-09 02:57:53 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:breathing_100": {
-    "criteria": {
-      "breathing_100_0": "2025-06-09 03:23:28 +0000"
-    },
-    "done": true
-  },
-  "kimetsunoyaiba:bloody_battle_lower_4": {
-    "criteria": {
-      "bloody_battle_lower_4_0": "2025-06-09 03:31:22 +0000"
+      "kill_12_moons_0": "2025-06-09 03:02:24 +0000"
     },
     "done": true
   },
@@ -1183,15 +1105,51 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:bloody_battle_lower_3": {
+  "kimetsunoyaiba:kinoto": {
     "criteria": {
-      "bloody_battle_lower_3_0": "2025-06-09 03:31:35 +0000"
+      "kinoto_0": "2025-06-09 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-09 03:07:14 +0000"
     },
     "done": true
   },
   "kimetsunoyaiba:kinoe": {
     "criteria": {
       "kinoe_0": "2025-06-09 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira_0": "2025-06-09 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:strongest": {
+    "criteria": {
+      "strongest_0": "2025-06-09 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_100_damage": {
+    "criteria": {
+      "receive_100_damage_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_mark": {
+    "criteria": {
+      "demon_slayer_mark_0": "2025-06-09 03:11:46 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:receive_60_damage": {
+    "criteria": {
+      "receive_60_damage_0": "2025-06-09 03:11:46 +0000"
     },
     "done": true
   },
@@ -1207,21 +1165,15 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:the_love_hashira": {
+  "kimetsunoyaiba:receive_20_damage": {
     "criteria": {
-      "the_love_hashira_0": "2025-06-09 03:23:50 +0000"
+      "receive_20_damage_0": "2025-06-09 03:11:46 +0000"
     },
     "done": true
   },
-  "kimetsunoyaiba:bloody_battle_upper_6": {
+  "kimetsunoyaiba:the_flame_hashira": {
     "criteria": {
-      "bloody_battle_upper_6_0": "2025-06-09 03:34:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-09 03:07:14 +0000"
+      "the_flame_hashira_0": "2025-06-09 03:11:50 +0000"
     },
     "done": true
   },
@@ -1231,15 +1183,57 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:breathing_20": {
+    "criteria": {
+      "breathing_20_0": "2025-06-09 03:11:51 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_kill_count_30": {
     "criteria": {
       "demon_kill_count_30_0": "2025-06-09 03:11:51 +0000"
     },
     "done": true
   },
+  "kimetsunoyaiba:the_sound_hashira": {
+    "criteria": {
+      "the_sound_hashira_0": "2025-06-09 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_40": {
+    "criteria": {
+      "breathing_40_0": "2025-06-09 03:21:08 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_60": {
+    "criteria": {
+      "breathing_60_0": "2025-06-09 03:23:23 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:demon_kill_count_40": {
     "criteria": {
       "demon_kill_count_40_0": "2025-06-09 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_80": {
+    "criteria": {
+      "breathing_80_0": "2025-06-09 03:23:24 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:transparent_world": {
+    "criteria": {
+      "transparent_world_0": "2025-06-09 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:breathing_100": {
+    "criteria": {
+      "breathing_100_0": "2025-06-09 03:23:28 +0000"
     },
     "done": true
   },
@@ -1255,27 +1249,39 @@
     },
     "done": true
   },
-  "kimetsunoyaiba:demon_kill_count_10": {
+  "kimetsunoyaiba:the_love_hashira": {
     "criteria": {
-      "demon_kill_count_10_0": "2025-06-09 03:00:12 +0000"
+      "the_love_hashira_0": "2025-06-09 03:23:50 +0000"
     },
     "done": true
   },
-  "kimetsunoyaiba:kinoto": {
+  "kimetsunoyaiba:bloody_battle_lower_4": {
     "criteria": {
-      "kinoto_0": "2025-06-09 03:02:24 +0000"
+      "bloody_battle_lower_4_0": "2025-06-09 03:31:22 +0000"
     },
     "done": true
   },
-  "kimetsunoyaiba:receive_20_damage": {
+  "kimetsunoyaiba:bloody_battle_lower_3": {
     "criteria": {
-      "receive_20_damage_0": "2025-06-09 03:11:46 +0000"
+      "bloody_battle_lower_3_0": "2025-06-09 03:31:35 +0000"
     },
     "done": true
   },
-  "kimetsunoyaiba:the_sound_hashira": {
+  "kimetsunoyaiba:bloody_battle_upper_6": {
     "criteria": {
-      "the_sound_hashira_0": "2025-06-09 03:17:12 +0000"
+      "bloody_battle_upper_6_0": "2025-06-09 03:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 03:37:15 +0000"
     },
     "done": true
   },
@@ -1285,9 +1291,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_bone_meal": "2025-06-09 03:37:15 +0000"
+      "has_salmon": "2025-06-12 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-12 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-12 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_upper_2": {
+    "criteria": {
+      "bloody_battle_upper_2_0": "2025-06-12 02:51:00 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_upper_3": {
+    "criteria": {
+      "bloody_battle_upper_3_0": "2025-06-12 02:50:03 +0000"
     },
     "done": true
   },
