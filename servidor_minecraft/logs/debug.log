@@ -1349,3 +1349,179 @@ com.google.gson.JsonSyntaxException: Unknown item 'kimetsunoyaiba:deleted_mod_el
 [12Jun2025 03:09:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set UndampedWharf's game mode to Survival Mode]
 [12Jun2025 03:09:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
 [12Jun2025 03:09:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set UndampedWharf's game mode to Creative Mode]
+[12Jun2025 03:09:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Giyu Tomioka]
+[12Jun2025 03:10:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Muichiro Tokito]
+[12Jun2025 03:10:03.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:10:03.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 03:10:04.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Kyojuro Rengoku]
+[12Jun2025 03:10:20.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Peaceful]
+[12Jun2025 03:10:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: The difficulty has been set to Hard]
+[12Jun2025 03:10:28.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Kyojuro Rengoku]
+[12Jun2025 03:10:30.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Muichiro Tokito]
+[12Jun2025 03:10:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Giyu Tomioka]
+[12Jun2025 03:10:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Sanemi Shinazugawa]
+[12Jun2025 03:10:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Gyomei Himejima]
+[12Jun2025 03:11:12.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Tengen Uzui]
+[12Jun2025 03:11:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Shinobu Kocho]
+[12Jun2025 03:11:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Obanai Iguro]
+[12Jun2025 03:12:05.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Mitsuri Kanroji]
+[12Jun2025 03:12:09.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:12:22.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Survival Mode]
+[12Jun2025 03:12:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura died because of Giyu Tomioka
+[12Jun2025 03:12:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 6]
+[12Jun2025 03:12:42.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:12:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf died
+[12Jun2025 03:13:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Creative Mode]
+[12Jun2025 03:13:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Killed UndampedWharf]
+[12Jun2025 03:13:42.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Fire Resistance to 2 targets]
+[12Jun2025 03:13:57.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Teleported UndampedWharf to Elchura]
+[12Jun2025 03:14:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Killed UndampedWharf]
+[12Jun2025 03:14:40.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UndampedWharf lost connection: Disconnected
+[12Jun2025 03:14:40.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf left the game
+[12Jun2025 03:14:44.179] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[12Jun2025 03:14:44.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[12Jun2025 03:14:44.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[12Jun2025 03:14:44.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[12Jun2025 03:14:44.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[12Jun2025 03:14:44.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, kimetsu_no_yaiba_addon_yoriichi, mixinextras, playeranimator, rpghud, jei, kimetsunoyaiba, cloth_config, bettercombat, forge, embeddium, rubidium, oculus, moreplayermodels]
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moreplayermodels:packets' : Version test of 'mpm' from client : ACCEPTED
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[12Jun2025 03:14:44.442] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kimetsunoyaiba:kimetsunoyaiba' : Version test of '1' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kimetsu_no_yaiba_addon_yoriichi:kimetsu_no_yaiba_addon_yoriichi' : Version test of '1' from client : ACCEPTED
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[12Jun2025 03:14:44.443] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[12Jun2025 03:14:44.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[12Jun2025 03:14:44.462] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[12Jun2025 03:14:44.462] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.462] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[12Jun2025 03:14:44.541] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[12Jun2025 03:14:44.541] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.541] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[12Jun2025 03:14:44.595] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[12Jun2025 03:14:44.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[12Jun2025 03:14:44.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[12Jun2025 03:14:44.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[12Jun2025 03:14:44.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[12Jun2025 03:14:44.826] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[12Jun2025 03:14:44.826] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.826] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.847] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.888] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[12Jun2025 03:14:44.888] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.888] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[12Jun2025 03:14:44.947] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.954] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:44.995] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:44.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[12Jun2025 03:14:45.047] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[12Jun2025 03:14:45.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[12Jun2025 03:14:45.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.097] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[12Jun2025 03:14:45.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[12Jun2025 03:14:45.248] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 21
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[12Jun2025 03:14:45.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[12Jun2025 03:14:45.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.335] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:45.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[12Jun2025 03:14:45.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:45.336] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:46.087] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[12Jun2025 03:14:46.087] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:46.087] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:46.087] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[12Jun2025 03:14:46.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:46.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:46.089] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[12Jun2025 03:14:46.089] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[12Jun2025 03:14:46.089] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[12Jun2025 03:14:46.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[12Jun2025 03:14:46.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UndampedWharf[/127.32.226.200:48375] logged in with entity id 11784 at (-39.852618482373146, 66.0, -62.5230064743242)
+[12Jun2025 03:14:46.159] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3c6b3814 into net.minecraft.network.Connection@8af4ce9
+[12Jun2025 03:14:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf joined the game
+[12Jun2025 03:14:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:15:03.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:15:03.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 03:15:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Survival Mode]
+[12Jun2025 03:15:14.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hashira Training Arc -Sound-]
+[12Jun2025 03:15:14.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 6]
+[12Jun2025 03:15:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 5]
+[12Jun2025 03:15:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 4]
+[12Jun2025 03:15:38.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:15:50.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Creative Mode]
+[12Jun2025 03:15:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Mitsuri Kanroji]
+[12Jun2025 03:15:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Obanai Iguro]
+[12Jun2025 03:15:57.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Shinobu Kocho]
+[12Jun2025 03:16:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Tengen Uzui]
+[12Jun2025 03:16:07.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Gyomei Himejima]
+[12Jun2025 03:16:12.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Sanemi Shinazugawa]
+[12Jun2025 03:16:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Summoned new Giyu Tomioka]
+[12Jun2025 03:16:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
+[12Jun2025 03:16:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [UndampedWharf: Set own game mode to Survival Mode]
+[12Jun2025 03:16:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 5]
+[12Jun2025 03:16:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 3]
+[12Jun2025 03:16:47.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 2]
+[12Jun2025 03:16:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Lower Rank 1]
+[12Jun2025 03:16:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 4]
+[12Jun2025 03:16:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 3]
+[12Jun2025 03:16:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hashira Training Arc -Water-]
+[12Jun2025 03:16:47.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 2]
+[12Jun2025 03:16:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Lower Rank 1]
+[12Jun2025 03:16:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hashira Training Arc -Serpent-]
+[12Jun2025 03:17:01.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hashira Training Arc -Love-]
+[12Jun2025 03:17:23.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has reached the goal [Hashira Training Arc -Wind-]
+[12Jun2025 03:18:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has reached the goal [Hashira Training Arc -Stone-]
+[12Jun2025 03:18:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elchura has completed the challenge [Upper Rank 6]
+[12Jun2025 03:18:30.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UndampedWharf has completed the challenge [Upper Rank 6]
+[12Jun2025 03:19:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Creative Mode]
+[12Jun2025 03:19:31.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Health Boost to 2 targets]
+[12Jun2025 03:19:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Absorption to 2 targets]
+[12Jun2025 03:19:46.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Applied effect Instant Health to 2 targets]
+[12Jun2025 03:19:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elchura: Set own game mode to Survival Mode]
