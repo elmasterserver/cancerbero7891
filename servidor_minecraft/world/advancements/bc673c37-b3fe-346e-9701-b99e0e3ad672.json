@@ -282,7 +282,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-09 01:33:51 +0000",
       "minecraft:spider": "2025-06-09 02:28:35 +0000",
-      "minecraft:zombie": "2025-06-09 02:35:32 +0000"
+      "minecraft:zombie": "2025-06-09 02:35:32 +0000",
+      "minecraft:drowned": "2025-06-12 03:18:10 +0000"
     },
     "done": false
   },
@@ -1354,6 +1355,48 @@
   "kimetsunoyaiba:lower_rank_6": {
     "criteria": {
       "lower_rank_6_0": "2025-06-12 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_1": {
+    "criteria": {
+      "lower_rank_1_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_3": {
+    "criteria": {
+      "lower_rank_3_0": "2025-06-12 03:16:34 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_2": {
+    "criteria": {
+      "lower_rank_2_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_5": {
+    "criteria": {
+      "lower_rank_5_0": "2025-06-12 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_4": {
+    "criteria": {
+      "lower_rank_4_0": "2025-06-12 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_stone": {
+    "criteria": {
+      "hashira_training_arc_stone_0": "2025-06-12 03:18:30 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:upper_rank_6": {
+    "criteria": {
+      "upper_rank_6_0": "2025-06-12 03:18:30 +0000"
     },
     "done": true
   },

@@ -1297,6 +1297,18 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira_training_arc_love": {
+    "criteria": {
+      "hashira_training_arc_love_0": "2025-06-12 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_water": {
+    "criteria": {
+      "hashira_training_arc_water_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-12 02:47:27 +0000"
@@ -1315,6 +1327,12 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:hashira_training_arc_serpent": {
+    "criteria": {
+      "hashira_training_arc_serpent_0": "2025-06-12 03:16:55 +0000"
+    },
+    "done": true
+  },
   "kimetsunoyaiba:become_demon": {
     "criteria": {
       "become_demon_0": "2025-06-12 03:05:13 +0000"
@@ -1330,6 +1348,60 @@
   "kimetsunoyaiba:bloody_battle_upper_3": {
     "criteria": {
       "bloody_battle_upper_3_0": "2025-06-12 02:50:03 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_wind": {
+    "criteria": {
+      "hashira_training_arc_wind_0": "2025-06-12 03:17:23 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_1": {
+    "criteria": {
+      "lower_rank_1_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_3": {
+    "criteria": {
+      "lower_rank_3_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_2": {
+    "criteria": {
+      "lower_rank_2_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_5": {
+    "criteria": {
+      "lower_rank_5_0": "2025-06-12 03:16:34 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_4": {
+    "criteria": {
+      "lower_rank_4_0": "2025-06-12 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:lower_rank_6": {
+    "criteria": {
+      "lower_rank_6_0": "2025-06-12 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira_training_arc_sound": {
+    "criteria": {
+      "hashira_training_arc_sound_0": "2025-06-12 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:upper_rank_6": {
+    "criteria": {
+      "upper_rank_6_0": "2025-06-12 03:18:30 +0000"
     },
     "done": true
   },
