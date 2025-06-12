@@ -1401,5 +1401,11 @@
     },
     "done": true
   },
+  "kimetsunoyaiba:upper_rank_5": {
+    "criteria": {
+      "upper_rank_5_0": "2025-06-12 03:46:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
